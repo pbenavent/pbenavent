@@ -1,6 +1,9 @@
 ## Welcome to pbenavent GitHub Pages
 
 This is a test on using GitHub pages. 
+
+The URL for this page is [https://pbenavent.github.io/pbenavent/](https://pbenavent.github.io/pbenavent/) althought I expected to avoid the latest username mention in order to keep it a little bit simpler.
+
 You may modify your pages via the [editor on GitHub](https://github.com/pbenavent/pbenavent/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
