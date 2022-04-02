@@ -1,4 +1,4 @@
-## Welcome to pbenavnt GitHub Pages
+## Welcome to pbenavent GitHub Pages
 
 This is a test on using GitHub pages. 
 You may modify your pages via the [editor on GitHub](https://github.com/pbenavent/pbenavent/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
